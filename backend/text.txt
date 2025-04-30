@@ -1,0 +1,1 @@
+UPDATE `artikel_tags` SET `tag_id` = '3' WHERE `artikel_tags`.`artikel_id` = 1 AND `artikel_tags`.`tag_id` = 1;
